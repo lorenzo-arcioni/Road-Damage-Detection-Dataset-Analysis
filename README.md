@@ -13,7 +13,7 @@ Before starting the compilation process, ensure you have:
 1. **Hailo AI Software Suite**: Download from the [Hailo Developer Zone](https://hailo.ai/developer-zone/software-downloads/?product=ai_accelerators&device=hailo_8_8l)
 2. **Docker**: Install Docker following the [official Hailo documentation](https://hailo.ai/developer-zone/documentation/hailo-sw-suite-2025-10-for-hailo-8-8l/?sp_referrer=suite/suite_install.html#docker-installation)
 3. **Trained ONNX models**: Export your trained YOLOv11 models to ONNX format
-4. **Calibration images**: Representative dataset images for quantization calibration
+4. **Calibration images**: Representative dataset images (we used all) for quantization calibration
 
 ### Compilation Steps
 
